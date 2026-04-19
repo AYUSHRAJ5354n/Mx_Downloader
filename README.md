@@ -1,4 +1,4 @@
-# 🎬 DsrBotz MX Player Downloader Bot
+# 🎬 DsrBotzz MX Player Downloader Bot
 
 A powerful Telegram bot to download MX Player / MXPlay videos in any available quality using **N_m3u8DL-RE** and **Yt-dlp**.
 
@@ -171,4 +171,4 @@ This bot is for **educational purposes only**. Users are responsible for complyi
 
 ---
 
-**Made with ❤️ by DsrBotz**
+**Made with ❤️ by DsrBotzz**
