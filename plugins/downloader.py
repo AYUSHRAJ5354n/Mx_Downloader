@@ -525,7 +525,7 @@ async def start_download(client: Client, callback_query: CallbackQuery, user_id:
         f"<b>📺 Episode:</b> {escape_html(session['episode']) or 'N/A'}\n"
         f"<b>📦 Season:</b> {escape_html(session['season']) or 'N/A'}\n"
         f"<b>🎯 Quality:</b> {display_label}\n\n"
-        f"<i>Downloaded via @DsrBotzz</i>"
+        f"<i>Downloaded via @AYU_BOTS</i>"
     )
 
     # ════════════════════════════════════════════
@@ -629,7 +629,7 @@ async def start_download(client: Client, callback_query: CallbackQuery, user_id:
                 f"<b>📦 Season:</b> {escape_html(session['season']) or 'N/A'}\n"
                 f"<b>🎯 Quality:</b> {display_label}\n"
                 f"<b>📂 Part:</b> {idx} / {total_parts}\n\n"
-                f"<i>Downloaded via @DsrBotzz</i>"
+                f"<i>Downloaded via @AYU_BOTS</i>"
             )
             part_label = f" (Part {idx}/{total_parts})"
 
